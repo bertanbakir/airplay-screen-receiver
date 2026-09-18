@@ -1,0 +1,46 @@
+# Gradle
+.gradle/
+**/build/
+!src/**/build/
+
+# Local machine config
+local.properties
+*.iml
+
+# Android Studio / IntelliJ
+.idea/
+*.ipr
+*.iws
+
+# NDK / native build outputs
+.cxx/
+.externalNativeBuild/
+**/.externalNativeBuild/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Captures / profiling
+captures/
+*.hprof
+
+# Signing keys
+*.jks
+*.keystore
+
+# APK / AAB outputs
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Kotlin
+.kotlin/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Local agent/editor configuration
+.claude/

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AirPlay Screen Receiver</string>
+    <string name="notification_channel_name">AirPlay receiver</string>
+    <string name="notification_channel_description">Shows when AirPlay is ready to receive casts</string>
+    <string name="notification_waiting">Ready — look for \"%1$s\" in AirPlay</string>
+    <string name="notification_casting">Receiving AirPlay on \"%1$s\"</string>
+    <string name="notification_error">AirPlay receiver failed to start</string>
+    <string name="status_waiting">Ready for AirPlay</string>
+    <string name="device_name_fallback">your TV</string>
+</resources>

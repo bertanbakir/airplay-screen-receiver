@@ -1,0 +1,6 @@
+[submodule "app/src/main/cpp/UxPlay"]
+	path = app/src/main/cpp/UxPlay
+	url = https://github.com/FDH2/UxPlay.git
+[submodule "app/src/main/cpp/libplist"]
+	path = app/src/main/cpp/libplist
+	url = https://github.com/libimobiledevice/libplist.git
